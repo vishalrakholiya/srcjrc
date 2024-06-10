@@ -98,7 +98,7 @@ h6 {
   display: table;
   width: 100%;
   height: 100vh;
-  background: url(../img/hero-bg.jpg) top center;
+  background: url(../img/hero-bg.jpg) bottom center;
   background-size: cover;
 }
 
@@ -148,7 +148,7 @@ h6 {
 #hero h2 span {
   color: #fff;
   transition: 0.3s;
-  border-bottom: 2px solid #03C4EB;
+  border-bottom: 2px solid #3978bc;
 }
 
 @media (max-width: 768px) {
@@ -605,7 +605,7 @@ section {
 /* Subscribe Section
 --------------------------------*/
 #subscribe {
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../img/subscribe-bg.jpg) fixed center center;
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../img/portfolio/g-24.jpg) fixed center center;
   background-size: cover;
   padding: 80px 0;
 }
@@ -838,7 +838,7 @@ section {
   background: #fff;
   padding: 60px;
   margin-top: 40px;
-  font-size: 16px;
+  font-size: 24px;
   font-style: italic;
   border-radius: 5px;
 }
