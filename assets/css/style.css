@@ -148,7 +148,7 @@ h6 {
 #hero h2 span {
   color: #fff;
   transition: 0.3s;
-  border-bottom: 2px solid #3978bc;
+  /* border-bottom: 2px solid #3978bc; */
 }
 
 @media (max-width: 768px) {
@@ -574,13 +574,13 @@ section {
   line-height: 0;
 }
 
-#services .service-item:hover .service-icon {
+/* #services .service-item:hover .service-icon {
   background: #fff;
 }
 
 #services .service-item:hover .service-icon i {
   color: #03C4EB;
-}
+} */
 
 #services .service-title {
   margin-left: 80px;
